@@ -56,6 +56,7 @@ Developed using **LangChain**, **ChromaDB**, **HuggingFace Embeddings**, and **S
 ### 1. Prerequisites
 
 Ensure you have Python 3.10+ installed.
+
 Clone or download the repo from https://github.com/arpittandon123/DemoAITravelAssistant
 
 ### 2. Setup Ollama
